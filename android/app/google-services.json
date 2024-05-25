@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521039472817",
+    "project_id": "piyush-sapp",
+    "storage_bucket": "piyush-sapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521039472817:android:7107ba47f27f5c1e9ada90",
+        "android_client_info": {
+          "package_name": "com.example.fruit_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tcbANlw9AFb4E1xeGfjLdZ3xDuktfBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521039472817:android:0f3a785ab87071f09ada90",
+        "android_client_info": {
+          "package_name": "org.tensorflow.image_classification_mobilenet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tcbANlw9AFb4E1xeGfjLdZ3xDuktfBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

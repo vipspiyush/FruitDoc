@@ -1,0 +1,16 @@
+Fresh Apple
+Fresh Banana
+Fresh Grape
+Fresh Guava
+Fresh Jujube
+Fresh Orange
+Fresh Pomegranate
+Fresh Strawberry
+Rotten Apple
+Rotten Banana
+Rotten Grape
+Rotten Guava
+Rotten Jujube
+Rotten Orange
+Rotten Pomegranate
+Rotten Strawberry
